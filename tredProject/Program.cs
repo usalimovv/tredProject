@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("git hubdan reporstori yaratish ");
+            Console.WriteLine("git hubdan reporstori yaratish " ); 
         }
     }
 }
